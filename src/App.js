@@ -13,13 +13,20 @@ export default function App() {
         author: "J.K. Rowling",
         image:
           "https://m.media-amazon.com/images/P/1408855658.01._SCLZZZZZZZ_SX500_.jpg",
-        rating: "4/5"
+        rating: "4.5/5"
       },
       {
         name: "A Song of Ice and Fire",
         author: "George R. R. Martin",
         image:
           "https://upload.wikimedia.org/wikipedia/en/d/dc/A_Song_of_Ice_and_Fire_book_collection_box_set_cover.jpg",
+        rating: "4/5"
+      },
+      {
+        name: "The Eye of the World",
+        author: "Robert Jordan",
+        image:
+          "https://images-na.ssl-images-amazon.com/images/I/81tBoQP5V+L.jpg",
         rating: "4.5/5"
       }
     ],
