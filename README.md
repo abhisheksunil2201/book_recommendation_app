@@ -1,2 +1,3 @@
 # book_recommendation_app
-Created with CodeSandbox
+
+A book recommendation app that gives recommendation in three categories - Fantasy, Self Help, Money Management.
